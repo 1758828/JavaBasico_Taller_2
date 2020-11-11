@@ -34,7 +34,7 @@ public class BeneficiosCovid19 {
     //Implementar un metodo que retorne el mejor beneficio comparando los valores de todos los beneficios
     //public Float getMejorbeneficios(){
     //    return Float.valueOf(0);
-    //}
+    //
 
 	
 }
